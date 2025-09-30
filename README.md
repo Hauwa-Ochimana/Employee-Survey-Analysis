@@ -1,7 +1,6 @@
 # Employee-Survey-Analysis
 
 ### Project Overview
-Project Overview
 This project evaluates employee feedback across departments and roles to understand satisfaction levels, agreement patterns, and areas for improvement. The goal is to provide data-driven recommendations to boost employee satisfaction and engagement. Key questions guiding the analysis include:
 - Which survey questions did respondents agree or disagree with most?
 - Do you see any patterns or trends by department or role?
@@ -49,3 +48,8 @@ The analysis shows that overall employee satisfaction is moderate, with employee
 - Resource & Career Development: Provide adequate tools, training, and mentorship programs to support employee growth, especially in departments with lower satisfaction.
 - Department-Specific HR Strategies: Conduct workshops or focus groups tailored to specific departments to address unique challenges.
 - Continuous Monitoring: Run pulse surveys regularly to track progress, measure the impact of interventions, and adjust strategies as needed.
+
+
+---
+### Contact Me:
+![EMAIL](ochimanahauwa@gmail.com)
