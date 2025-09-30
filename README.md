@@ -38,6 +38,8 @@ This project evaluates employee feedback across departments and roles to underst
 3. Insights
 - Employees understand their roles and appreciate managerial support, yet gaps exist in workplace relationships and recognition. Department and role trends help pinpoint where interventions will be most effective. By using DAX measures to quantify agreement and disagreement, we can identify precise areas for improvement and provide data-driven recommendations for enhancing employee satisfaction and engagement.
 
+To interact with the live dashboard, click ![HERE](https://github.com/Hauwa-Ochimana/Employee-Survey-Analysis/blob/main/Employee%20Survey%20Dashboard.pbix%20file.pbix)
+
 ### Conclusion
 The analysis shows that overall employee satisfaction is moderate, with employees generally understanding their roles and appreciating support from direct supervisors. However, gaps exist in workplace relationships (48% disagreed that they have a best friend at work) and recognition (35% disagreed that they received acknowledgment in the last seven days). Department and role trends reveal that some areas and frontline staff experience more challenges than others, highlighting where targeted interventions are needed.
 
