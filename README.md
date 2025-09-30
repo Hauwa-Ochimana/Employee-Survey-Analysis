@@ -20,6 +20,10 @@ This project evaluates employee feedback across departments and roles to underst
 - Employee sentiment analysis (Agreement vs. Disagreement)
 - Dashboard/Data Storytelling
 
+### Visualization
+
+![](https://github.com/Hauwa-Ochimana/Employee-Survey-Analysis/blob/main/employee.png)
+
 ### Analysis
 1. Most Agreed and Disagreed Questions; Using DAX measures, we quantified employee sentiment: % Agreement captured positive responses (Agree + Strongly Agree), while % Disagreement captured negative responses (Disagree + Strongly Disagree). This allowed us to tell a clear story about workplace satisfaction:
 - High Agreement Areas: Employees strongly agreed they know what is expected of them at work (93%) and feel supported and cared for by supervisors or colleagues (83%), highlighting clarity in roles and effective managerial support.
